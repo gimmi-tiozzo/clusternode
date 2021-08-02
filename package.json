@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gimmi.tiozzo/clusternode.git"
+    "url": "git+https://github.com/gimmi-tiozzo/clusternode.git"
   },
   "keywords": [
     "node",
@@ -17,7 +17,7 @@
   "author": "Gimmi Tiozzo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gimmi.tiozzo/clusternode/issues"
+    "url": "https://github.com/gimmi-tiozzo/clusternode/issues"
   },
-  "homepage": "https://github.com/gimmi.tiozzo/clusternode#readme"
+  "homepage": "https://github.com/gimmi-tiozzo/clusternode#readme"
 }
