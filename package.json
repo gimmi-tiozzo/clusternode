@@ -4,7 +4,8 @@
     "description": "Progetto di esempio di uso di un cluster node",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "pm2": "node pm2.js"
     },
     "repository": {
         "type": "git",
