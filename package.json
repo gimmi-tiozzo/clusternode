@@ -1,23 +1,29 @@
 {
-  "name": "clusternode",
-  "version": "1.0.0",
-  "description": "Progetto di esempio di uso di un cluster node",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gimmi-tiozzo/clusternode.git"
-  },
-  "keywords": [
-    "node",
-    "cluster"
-  ],
-  "author": "Gimmi Tiozzo",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gimmi-tiozzo/clusternode/issues"
-  },
-  "homepage": "https://github.com/gimmi-tiozzo/clusternode#readme"
+    "name": "clusternode",
+    "version": "1.0.0",
+    "description": "Progetto di esempio di uso di un cluster node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gimmi-tiozzo/clusternode.git"
+    },
+    "keywords": [
+        "node",
+        "cluster"
+    ],
+    "author": "Gimmi Tiozzo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gimmi-tiozzo/clusternode/issues"
+    },
+    "homepage": "https://github.com/gimmi-tiozzo/clusternode#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
 }
